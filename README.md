@@ -1,0 +1,2 @@
+Morph contract: 0xE8840Bfe795672a3b184Bc1E518a680585aadC9e
+Starknet contract: 0x06d5c3178f8bc73fad618466398ab5c6cb1bc651ede47749346dc1c584c42f09
